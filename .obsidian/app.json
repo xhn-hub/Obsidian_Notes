@@ -1,0 +1,11 @@
+{
+  "showInlineTitle": true,
+  "showLineNumber": false,
+  "vimMode": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./附件",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true,
+  "promptDelete": true
+}

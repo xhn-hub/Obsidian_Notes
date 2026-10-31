@@ -1,0 +1,7 @@
+{
+  "theme": "system",
+  "cssTheme": "Minimal",
+  "showRibbon": true,
+  "showViewHeader": true,
+  "nativeMenus": true
+}
