@@ -6,6 +6,7 @@
       {
         "id": "66b1f3dabd8c02af",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "b0a27599f2f5c78c",
@@ -13,13 +14,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comfui/1使用说明.md",
+                "file": "Notes/任务/我的任务.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1使用说明"
+              "title": "我的任务"
+            }
+          },
+          {
+            "id": "dfd4dda4beff2f74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Markdown/1语法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1语法"
+            }
+          }
+        ]
+      },
+      {
+        "id": "797c6f816d62f871",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "771cb8e3263ba450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/任务/我的任务.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "我的任务"
             }
           }
         ]
@@ -110,8 +148,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,7 +245,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Comfui/1使用说明.md"
+                "file": "Notes/任务/我的任务.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -219,12 +256,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -232,32 +267,46 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2920d72a5a87b73",
+  "active": "405be6de99e0b460",
   "lastOpenFiles": [
+    "Notes/任务/~$每日任务.xlsx",
+    "Notes/Comfui/使用说明.md",
+    "Notes/Comfui/Minimax.md",
+    "Notes/任务/我的任务.md",
+    "Notes/Markdown/1语法.md",
+    "Notes/任务/每日任务~C54F6.tmp",
+    "Notes/任务/每日任务~BC299.tmp",
+    "Notes/任务/每日任务~ADC21.tmp",
+    "Notes/任务/每日任务~A9F47.tmp",
+    "Notes/任务/每日任务~A7B25.tmp",
+    "Notes/任务/每日任务~A49C4.tmp",
+    "Notes/任务/每日任务~A2B5F.tmp",
+    "Notes/任务/每日任务~90703.tmp",
+    "Notes/任务/xlsx每日任务.xlsx",
+    "Notes/任务/每日任务.md",
+    "Notes/Comfui/文生视频提示词.md",
+    "Notes/Comfui/问题及处理.md",
+    "README.md",
+    "Notes/Markdown/双链.md",
     "Obsidian_Notes/README.md",
-    "Obsidian_Notes",
     "Markdown/1语法.md",
     "Comfui/1使用说明.md",
-    "Comfui",
     "Obsidian使用说明/附件/Pasted image.png",
     "Obsidian使用说明/2插件.md",
-    "Obsidian使用说明/附件",
     "Obsidian使用说明/1操作.md",
-    "未命名.base",
     "未命名.canvas",
     "Obsidian使用说明/3模板.md",
     "Markdown/语法.md",
     "Markdown/下载.webp",
     "Markdown/双链.md",
     "未命名 1.canvas",
-    "Markdown",
     "未命名.md",
     "2026-10-29.md",
     "创建链接.md",
-    "Obsidian使用说明",
     "欢迎.md"
   ]
 }
